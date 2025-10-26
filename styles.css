@@ -4,3 +4,28 @@
   margin: 0px;
   padding: 0px;
 }
+
+/* NAVBAR */
+.nav {
+  display: flex;
+  justify-content: space-between;
+
+  background-color: #1f2937;
+}
+
+.header-logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.nav-right-side {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.nav-right-side a {
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration-line: none;
+}
