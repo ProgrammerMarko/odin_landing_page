@@ -12,4 +12,4 @@ A responsive landing page built as part of [The Odin Project – Foundations Cou
 
 ## Live Demo
 
-You can view the live version here: [View on GitHub Pages]()
+You can view the live version here: [View on GitHub Pages](https://programmermarko.github.io/odin_landing_page/)
